@@ -3,12 +3,14 @@
 由ECOCO使用者「黃同學」製作，提供 ECOCO 官方 APP 功能、版面修改建議的 Figma Prototype
 ## 連結
 - APP1.0版面
-[https://www.figma.com/design/gTnvKgZ9qtfrVckYyjL8E1/ECOCO-Suggestion?node-id=0-1&t=YBeeyEHULrezF95h-1](https://www.figma.com/design/gTnvKgZ9qtfrVckYyjL8E1/ECOCO-Suggestion?node-id=0-1&t=YBeeyEHULrezF95h-1)
+  
+[https://www.figma.com/proto/gTnvKgZ9qtfrVckYyjL8E1/ECOCO-Suggestion?node-id=0-1&t=8q3ROmsmqSUAYOFX-1](https://www.figma.com/proto/gTnvKgZ9qtfrVckYyjL8E1/ECOCO-Suggestion?node-id=0-1&t=8q3ROmsmqSUAYOFX-1)
 - APP2.0版面
 > 製作中，敬請期待
 - 自行設計的版面
+  
 [https://www.figma.com/proto/yA1V6zZEjrodWVP21liBv8/ECOCO-Suggestion-DesignByPercy?node-id=0-1&t=1Wf1TJFhziDpVYgx-1](https://www.figma.com/proto/yA1V6zZEjrodWVP21liBv8/ECOCO-Suggestion-DesignByPercy?node-id=0-1&t=1Wf1TJFhziDpVYgx-1)
-> 這個版面會跟EcoLand(我自行開發的專案)的APP長得很像，僅供參考功能。
+> 這個版面會跟EcoLand(我自行開發的專案)的APP長得很像，僅供團隊參考功能。
 ## 功能介紹
 ### APP1.0
 - 主頁面
